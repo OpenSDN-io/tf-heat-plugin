@@ -10,7 +10,7 @@ The R2.x Heat Plugin Resources
 Here is the link of all the hand-written plugin resources supported by
 contrail-heat in Release 2.x
 
-https://github.com/tungstenfabric/tf-heat-plugin/tree/master/contrail_heat/resources
+https://github.com/opensdn-io/tf-heat-plugin/tree/master/contrail_heat/resources
 
 With Release 3.0, contrail-heat resources/templates are being auto-generated
 from the Schema. 
@@ -35,5 +35,5 @@ The Heat Plugin Resources
 Here is the link of all the generated plugin resources supported by
 contrail-heat in Release 3.x
 
-https://github.com/tungstenfabric/tf-heat-plugin/tree/master/generated/resources
+https://github.com/opensdn-io/tf-heat-plugin/tree/master/generated/resources
 
