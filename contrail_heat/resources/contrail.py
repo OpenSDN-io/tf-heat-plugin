@@ -1,4 +1,4 @@
-from six.moves import configparser
+import configparser
 
 from heat.engine import resource
 from heat.engine.properties import Properties
