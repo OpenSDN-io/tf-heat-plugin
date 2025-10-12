@@ -1,2 +1,2 @@
 heat
-contrail-api-client
+contrail-api-client==0.1.dev0
